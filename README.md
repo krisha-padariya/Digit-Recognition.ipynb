@@ -15,7 +15,7 @@ It is built with TensorFlow and Keras using a neural network model to perform ac
 
 - **File**:
   `Digit_recognition.ipynb`
-- 
+
 ## Requirements
 
 Install dependencies using:
