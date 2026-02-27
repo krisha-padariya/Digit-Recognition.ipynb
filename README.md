@@ -53,13 +53,12 @@ Upload the .ipynb file to Google Colab run all cells
 ## Future Work
 
 . Add more supervised learning projects to expand practical experience.
-
 . Explore unsupervised learning techniques such as clustering.
-
 . Implement more advanced neural network models for improved performance.
+. Build larger and more complex image classification systems.
 
 ## License
 This repository is open-source and free to use.
 
 
-. Build larger and more complex image classification systems.
+
