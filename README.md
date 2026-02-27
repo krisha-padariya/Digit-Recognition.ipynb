@@ -1,50 +1,65 @@
-# 🧠 Digit Recognition (MNIST)
+## Digit Recognition (MNIST)
 
-## 📌 Project Overview
+##  Project Overview
 This project classifies handwritten digits (0–9) using the MNIST dataset. 
 It is built with TensorFlow and Keras using a neural network model to perform accurate image classification.
 
-## 📂 Dataset
+## Dataset
 - Dataset: MNIST
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Python  
 - TensorFlow / Keras  
 - NumPy   
 - Google Colab / Jupyter Notebook
 
  ## File
-Digit_recognition.ipynb
+ Digit_recognition.ipynb
 
 ## Requirements
 
-To run this project, install the following dependencies:
-pip install tensorflow numpy matplotlib
+Install dependencies using:
 
-Usage
-1️⃣ Clone the repository:
+```bash
+pip install numpy pandas scikit-learn matplotlib tensorflow keras
+```
+## Usage
+1.  Clone the repository:
+ ```bash
 git clone https://github.com/krisha-padariya/Digit-Recognition.git
+  ```
 
-2️⃣ Navigate to the project folder:
+2️. Navigate to the project folder:
+ ```bash
 cd Digit Recognition
+  ```
 
-3️⃣ Open the Notebook:
+3️. Open the Notebook:
 
-Jupyter Notebook:
+ - Jupyter Notebook:
+     ```bash
+     jupyter notebook
+     ```
+     - Google Colab:
+     - Upload the `.ipynb` file to Colab and run the cells.
 
-🤝 Contribution
+## Contributions
 
 If you would like to improve the project, feel free to fork the repository, make your changes, and submit a pull request.
 Suggestions for enhancements and new features are always appreciated.
 
 Upload the .ipynb file to Google Colab run all cells
 
-🚀 Future Work
+## Future Work
 
 . Add more supervised learning projects to expand practical experience.
 
 . Explore unsupervised learning techniques such as clustering.
 
 . Implement more advanced neural network models for improved performance.
+
+## License
+This repository is open-source and free to use.
+
 
 . Build larger and more complex image classification systems.
